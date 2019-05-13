@@ -12,6 +12,6 @@
 * clone le repo dans un dossier de votre choix
 * copier le dossier php-project dans votre serveur web
 * avant d'accéder au site, connectez vous sur à votre phpmyadmin
-* créer une base nommée project_php ou à changer dans le fichier config/config.php
-* importer le fichier projet_php.sql et votre site est prêt !
+* créer une base nommée project_php et changer les informations de connexion dans le fichier config/config.php
+* importer le fichier projet_php.sql sur phpmyadmin et votre site est prêt !
 
